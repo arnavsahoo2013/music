@@ -1,0 +1,33 @@
+.heading
+{
+   font-size: 29px;
+   width: 100%;
+   margin: 0px;
+   color: black;
+}
+.note
+{
+    font-size: 17px;
+}
+body
+{
+    background-size: cover;
+}
+canvas
+{
+    border-radius: 20px;
+    border: 5px solid white;
+    position: fixed;
+}
+.box
+{
+    width: 150px;
+    height: 280px;
+    float: right;
+}
+.speaker
+{
+    width: 150px;
+    height: 280px;
+    float: left;
+}
